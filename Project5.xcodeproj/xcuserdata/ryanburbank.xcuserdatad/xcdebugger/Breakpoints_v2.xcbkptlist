@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project5/ViewController.swift"
+            timestampString = "524964829.607233"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "isReal(word:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project5/ViewController.swift"
+            timestampString = "524964382.451409"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project5.ViewController.__deallocating_deinit"
+                  moduleName = "Project5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryanburbank/Documents/swift_programming_with_bnr/Project5/Project5/ViewController.swift"
+                  timestampString = "524964545.220339"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project5.ViewController.init (style : __C.UITableViewStyle) -&gt; Project5.ViewController"
+                  moduleName = "Project5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryanburbank/Documents/swift_programming_with_bnr/Project5/Project5/ViewController.swift"
+                  timestampString = "524964545.222886"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project5.ViewController.__allocating_init (style : __C.UITableViewStyle) -&gt; Project5.ViewController"
+                  moduleName = "Project5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryanburbank/Documents/swift_programming_with_bnr/Project5/Project5/ViewController.swift"
+                  timestampString = "524964545.225708"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project5.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Project5.ViewController"
+                  moduleName = "Project5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryanburbank/Documents/swift_programming_with_bnr/Project5/Project5/ViewController.swift"
+                  timestampString = "524964545.227732"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project5.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Project5.ViewController"
+                  moduleName = "Project5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryanburbank/Documents/swift_programming_with_bnr/Project5/Project5/ViewController.swift"
+                  timestampString = "524964545.229017"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project5.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Project5.ViewController&gt;"
+                  moduleName = "Project5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryanburbank/Documents/swift_programming_with_bnr/Project5/Project5/ViewController.swift"
+                  timestampString = "524964545.230419"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project5.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Project5.ViewController&gt;"
+                  moduleName = "Project5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryanburbank/Documents/swift_programming_with_bnr/Project5/Project5/ViewController.swift"
+                  timestampString = "524964545.23208"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
